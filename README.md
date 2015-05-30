@@ -1,3 +1,0 @@
-# Thump
-SVG Playground
-
